@@ -1,6 +1,6 @@
-# profilepage
+# profilecard
 
-Profile Login Page.
+Business card Profile Page.
 
 ## Getting Started
 
